@@ -1,0 +1,94 @@
+body {
+	background-image: url("https://raw.githubusercontent.com/davinci-ao/de-vloot/master/css/grfx/bg.png");
+	font-family: Sans-Serif;
+	background-repeat:  repeat-x;
+	margin:auto;
+}
+
+
+
+header {
+	background-image: url("header.jpg");
+	width: 800px;
+	height: 268px;
+	margin:auto;
+}
+
+h1 {
+	margin: 0;
+	padding-left: 20px; 
+	padding-top:15px;
+}
+
+
+#img3 {
+	float: right;
+	padding: 15px;
+}
+#img4 {
+	float: left;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.img1 {
+	float: left;
+	padding: 15px;
+}
+
+.img2 {
+	float: right;
+	padding: 15px;
+}
+
+article{
+margin-left: 20px;
+padding-right: 10px;
+}
+
+ul{
+	padding: 0;
+	margin-top: 155px;
+}
+
+li {
+	display: inline-block;
+}
+
+li a {
+	color: #ffffff;
+	text-decoration: none;
+	padding: 0 16px;
+}
+
+li a:hover {
+	color: #CCFFFF;
+}
+
+
+.text {
+  width: 800px;
+  background-color: white;
+  margin: 0 auto;
+  border-color: white;
+  border-radius: 0px;
+  
+}
+#topt {
+	margin: 0 0 0 20px;
+
+}
+.textt {
+	margin: 0px;
+	padding: 20px 0px 0 20px;
+	font-size: 25px;	
+}
+#Nunc {
+	font-size: 18px;
+}
+p {
+	margin: 15px;
+}
+#link {
+	font-size: 13px;
+}

@@ -1,0 +1,15 @@
+header {
+	background-image: url(header.jpg);
+	width: 800px;
+	height: 272px;
+	margin:auto;
+
+}
+body {
+	background-image: url(bg.png);
+}
+#text {
+	margin-left: 200px;
+	width: 272px;
+	background-image: url(white.png);
+}
